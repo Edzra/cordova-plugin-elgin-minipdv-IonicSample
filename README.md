@@ -2,7 +2,7 @@
 ### Baixar os módulos do projeto com
     npm install 
 
-### Instalar o plugin com as funções base da GBOT
+### Instalar o plugin para os minipdv's
     ionic cordova plugin add cordova-plugin-elgin=minipdv
 
 ### Rodar o projeto com
