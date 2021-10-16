@@ -42,7 +42,6 @@
     "@typescript-eslint/eslint-plugin": "4.16.1",
     "@typescript-eslint/parser": "4.16.1",
     "cordova-plugin-device": "^2.0.2",
-    "cordova-plugin-elgin-minipdv": "0.0.2",
     "cordova-plugin-ionic-keyboard": "^2.2.0",
     "cordova-plugin-ionic-webview": "^4.2.1",
     "cordova-plugin-splashscreen": "^5.0.2",
@@ -74,8 +73,7 @@
       "cordova-plugin-ionic-webview": {
         "ANDROID_SUPPORT_ANNOTATIONS_VERSION": "27.+"
       },
-      "cordova-plugin-ionic-keyboard": {},
-      "cordova-plugin-elgin-minipdv": {}
+      "cordova-plugin-ionic-keyboard": {}
     },
     "platforms": [
       "android"
